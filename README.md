@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github,ae,ps,pr,figma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse, idea,git,github,ae,ps,pr,figma)](https://skillicons.dev)<br><br>
 
 ##
 <br>
