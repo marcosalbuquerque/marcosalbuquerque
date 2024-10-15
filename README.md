@@ -8,11 +8,8 @@
 - 📚 2º Semestre em Ciência da Computação;
 - ☕ Desenvolvedor Fullstack
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)<br><br>
-
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,spring,git,github,ae,ps,pr,figma)](https://skillicons.dev)<br><br>
+## 🚀 Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,html,css,javascript,figma,spring,ps,pr,ae)](https://skillicons.dev)<br>
 
 ##
 <br>
