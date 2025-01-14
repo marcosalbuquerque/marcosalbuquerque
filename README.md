@@ -5,11 +5,11 @@
   💻 Estudante de Programação | 🎬 Filmmaker & Photographer
 </p><br>
 
-- 📚 2º Semestre em Ciência da Computação;
+- 📚 3º Semestre em Ciência da Computação;
 - ☕ Desenvolvedor Fullstack
 
 ## 🚀 Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,html,css,javascript,figma,spring,ps,pr,ae)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,c,swift,python,html,css,javascript,figma,spring,ps,pr,ae)](https://skillicons.dev)<br>
 
 ##
 <br>
