@@ -2,14 +2,13 @@
 <h1 align="center">👋 Olá, eu sou o Marcos Albuquerque</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🎬 Filmmaker & Photographer
+  iOS Developer at Apple Developer Academy
 </p><br>
 
-- 📚 3º Semestre em Ciência da Computação;
-- ☕ Desenvolvedor Fullstack
+- 📚 4º Semestre em Ciência da Computação;
 
 ## 🚀 Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,c,swift,python,html,css,javascript,figma,spring,ps,pr,ae)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,git,github,firebase,figma,java,c,js,nodejs,react)](https://skillicons.dev)<br>
 
 ##
 <br>
@@ -21,7 +20,7 @@
 ##
 <div> 
 <a href="https://linkedin.com/in/marcosalbuquerque-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/g.marcolas_/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/albmarcolas" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href = "mailto:marcosg.as2232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
