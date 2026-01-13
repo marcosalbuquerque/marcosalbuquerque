@@ -5,10 +5,11 @@
   iOS Developer at Apple Developer Academy
 </p><br>
 
-- 📚 4º Semestre em Ciência da Computação;
+- 📚 5º Semestre em Ciência da Computação;
+- 📱 Mobile Developer
 
 ## 🚀 Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,git,github,firebase,figma,java,c,js,nodejs,react)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,git,github,firebase,figma,flutter,js,nodejs,react,npm)](https://skillicons.dev)<br>
 
 ##
 <br>
