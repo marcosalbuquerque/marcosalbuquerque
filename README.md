@@ -7,7 +7,7 @@
 
 - 🎨 Design Engineer;
 - 🏆 Apple WWDC Distinguished Winner;
-- 💼 Pro Design at Biud
+- 💼 Product Designer at Biud
 
 ## 🚀 Stack
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,react,framer,ts,nextjs,tailwind,html,css,threejs,vercel,git,github)](https://skillicons.dev)<br>
