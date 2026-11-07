@@ -5,11 +5,19 @@
   Design Engineer · Apple WWDC Distinguished Winner
 </p><br>
 
-- 📚 5th semester Computer Science student;
-- 🎨 Design Engineer at Apple Developer Academy
+- 🎨 Design Engineer;
+- 🏆 Apple WWDC Distinguished Winner;
+- 💼 Pro Design at Biud
 
 ## 🚀 Stack
-[![My Skills](https://skillicons.dev/icons?i=figma,ts,js,react,nextjs,tailwind,html,css,sass,threejs,framer,vite,nodejs,git,github,vercel,swift)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,react,framer,ts,nextjs,tailwind,html,css,threejs,vercel,git,github)](https://skillicons.dev)<br>
+<img src="https://img.shields.io/badge/Paper-111111?style=for-the-badge" alt="Paper">
+<img src="https://img.shields.io/badge/Design_Systems-7B61FF?style=for-the-badge" alt="Design Systems">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+<img src="https://img.shields.io/badge/Motion_Design-000000?style=for-the-badge" alt="Motion Design">
+<img src="https://img.shields.io/badge/Design_Tokens-1ABCFE?style=for-the-badge" alt="Design Tokens">
+<img src="https://img.shields.io/badge/Prototyping-F24E1E?style=for-the-badge" alt="Prototyping"><br>
 
 ##
 <br>
@@ -21,7 +29,7 @@
 ##
 <div> 
 <a href="https://linkedin.com/in/marcosalbuquerque-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/albmarcolas" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/albimarcolas" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href = "mailto:marcosg.as2232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
