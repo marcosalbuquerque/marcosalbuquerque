@@ -7,7 +7,7 @@
 
 <p align="center">
   Designing and building polished, accessible, delightful interfaces —<br>
-  from Figma to production-ready Swift and the web.
+  from Figma to production-ready code on the web.
 </p>
 
 <br>
@@ -25,26 +25,31 @@
 **Design**
 
 [![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-Figma · Prototyping · Design Systems · Design Tokens · Motion & Interaction Design · Accessibility (a11y)
+Figma · Variables & Auto Layout · Prototyping · Design Systems · Design Tokens · Motion Design
 
-**Apple platforms**
+**Front-end & Interfaces**
 
-[![Apple](https://skillicons.dev/icons?i=swift,apple,xcode)](https://skillicons.dev)
-Swift · SwiftUI · UIKit · Xcode · Human Interface Guidelines · Animations & Haptics
+[![Front-end](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
+TypeScript · React · Next.js · Tailwind CSS · Modern CSS (Grid, Container Queries, Custom Properties) · Radix UI · shadcn/ui
 
-**Web & Front-end**
+**Motion & Creative Coding**
 
-[![Web](https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs)](https://skillicons.dev)
-TypeScript · JavaScript · React · HTML · CSS · Node.js
+[![Motion](https://skillicons.dev/icons?i=framer,threejs)](https://skillicons.dev)
+Framer Motion · GSAP · CSS Animations & View Transitions · Three.js · WebGL / GLSL Shaders · Lottie
 
-**Cross-platform & Backend**
+**Design Systems & Workflow**
 
-[![Other](https://skillicons.dev/icons?i=kotlin,firebase,java)](https://skillicons.dev)
-React Native · Expo · Kotlin · Firebase · REST APIs
+[![Workflow](https://skillicons.dev/icons?i=vite,nodejs,pnpm,git,github,vercel)](https://skillicons.dev)
+Storybook · Style Dictionary · Vite · Node.js · pnpm · Git & GitHub · Vercel
 
-**Tools**
+**Quality**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,npm)](https://skillicons.dev)
+Accessibility (WCAG, ARIA, keyboard & screen readers) · Performance (Core Web Vitals) · Responsive & Fluid Design · Chrome DevTools
+
+**Also**
+
+[![Apple](https://skillicons.dev/icons?i=swift,apple)](https://skillicons.dev)
+Swift · SwiftUI — native Apple-platform apps
 
 ## 🚀 Featured Work
 
